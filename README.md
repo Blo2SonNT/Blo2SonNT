@@ -1,12 +1,6 @@
 <h1 align="center">Hola 👋, soy Miguel</h1>
 <h3 align="center">Un loco apasionado por la programación y la enseñanza, amor por lo que hago 😊</h3>
 
-<!--<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=blo2sonnt" alt="blo2sonnt" />
-    </a>
-</p>-->
-
 <h3 align="center">Quieres hablar?</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/miguel-gustavo-l-nieto-5677871a3/" target="_blank">
