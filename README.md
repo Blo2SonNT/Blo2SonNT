@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Miguel</h1>
-<h3 align="center">Apasionado por la programación y la enseñanza, amor por lo que hago 😊</h3>
+<h3 align="center">Un loco apasionado por la programación y la enseñanza, amor por lo que hago 😊</h3>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
