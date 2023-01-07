@@ -12,9 +12,6 @@ Soy programador FullStack y un loco apasionado por la enseñanza, trabajando act
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blo2SonNT&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blo2SonNT&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
-<br><br>
-
-<iframe src="https://giphy.com/embed/qEqiI3Oq7vBkoE236M" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-codingspace-qEqiI3Oq7vBkoE236M">via GIPHY</a></p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Blo2SonNT&icon=3&color=4)](https://visitcount.itsvg.in)
 
