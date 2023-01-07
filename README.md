@@ -1,5 +1,5 @@
 # 💫 Hola! Te doy la bienvenida a mi perfil 😁
-Soy programador FullStack y un loco apasionado por la enseñanza, trabajando actualmente para universidades y empresas enfocadas al rubro de la educacion.<br>Me especializo en tecnologias como JavaScript, PHP, SQL y NoSQL<br><br>Actualmente me dedico como desarrollador de software en la Universidad de ciencias aplicadas y ambientales U.D.C.A y tambien imparto clases con diferentes instituciones privadas y/o publicas
+Soy programador FullStack y un loco apasionado por la enseñanza, trabajando actualmente para universidades y empresas enfocadas al rubro de la educación.<br>Me especializo en tecnologías como JavaScript, PHP, SQL y NoSQL<br><br>Actualmente, soy desarrollador de software en la Universidad de ciencias aplicadas y ambientales U.D.C.A y también imparto clases con diferentes instituciones privadas y/o públicas
 
 
 ## 🌐 Redes:
@@ -12,10 +12,9 @@ Soy programador FullStack y un loco apasionado por la enseñanza, trabajando act
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blo2SonNT&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blo2SonNT&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
+<br><br>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+<iframe src="https://giphy.com/embed/qEqiI3Oq7vBkoE236M" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-codingspace-qEqiI3Oq7vBkoE236M">via GIPHY</a></p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Blo2SonNT&icon=3&color=4)](https://visitcount.itsvg.in)
 
