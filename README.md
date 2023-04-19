@@ -1,7 +1,15 @@
 # 💫 Hola! Te doy la bienvenida a mi perfil 😁
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
-Soy programador FullStack y un loco apasionado por la enseñanza, trabajando actualmente para universidades y empresas enfocadas al rubro de la educación.<br>Me especializo en tecnologías como JavaScript, PHP, SQL y NoSQL<br><br>Actualmente, soy desarrollador de software en la Universidad de ciencias aplicadas y ambientales U.D.C.A y también imparto clases con diferentes instituciones privadas y/o públicas
+
+Como programador FullStack, mi pasión es la enseñanza y actualmente trabajo para universidades y empresas enfocadas en el rubro de la educación. Me especializo en tecnologías como JavaScript, PHP, SQL y NoSQL.
+<br>
+Actualmente, desempeño el rol de desarrollador de software en la Universidad de Ciencias Aplicadas y Ambientales U.D.C.A, y también imparto clases en diferentes instituciones tanto privadas como públicas. Me apasiona compartir mis conocimientos y habilidades con la comunidad y ayudar a otros a crecer en su carrera en el mundo de la programación.
+<br>
+Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente. Me esfuerzo por mantenerme actualizado con las últimas tecnologías y tendencias en el mundo de la programación, para poder ofrecer las mejores soluciones y servicios a mis clientes y alumnos.
+<br>
+¡Gracias por visitar mi perfil de Github!
+
 
 
 ## 🌐 Redes:
