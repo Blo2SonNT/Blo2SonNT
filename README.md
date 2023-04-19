@@ -1,5 +1,5 @@
 # 💫 Hola! Te doy la bienvenida a mi perfil 😁
-<img src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="200"  style="float: center; align="center"">
+<img src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="200"  style="float: center; align="center">
 
 Como programador FullStack, mi pasión es la enseñanza y actualmente trabajo para universidades y empresas enfocadas en el rubro de la educación. Me especializo en tecnologías como JavaScript, PHP, SQL y NoSQL.
 <br><br>
